@@ -1,0 +1,15 @@
+query GetStartPage($locales: [Locales], $key: String!) {
+  _Content(locale: $locales, where: { _metadata: { key: { eq: $key } } }) {
+    item {
+      __typename
+      ... on StartPage {
+        title
+        shortDescription
+        keywords
+        blocks {
+          ...ItemsInContentArea
+        }
+      }
+    }
+  }
+}
