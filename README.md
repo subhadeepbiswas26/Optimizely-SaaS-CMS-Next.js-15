@@ -4,7 +4,7 @@ A comprehensive starter template for building modern websites with Optimizely Sa
 
 This project was built based on a free course on how to get started with Optimizely SaaS CMS. You can find step-by-step information on how this project was built at: https://opti-masterclass.vercel.app
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fszymonuryga%2FOptimizely-SaaS-CMS-Next.js-15&env=OPTIMIZELY_API_URL,OPTIMIZELY_SINGLE_KEY,OPTIMIZELY_PREVIEW_SECRET,OPTIMIZELY_REVALIDATE_SECRET,OPTIMIZELY_START_PAGE_URL,OPTIMIZELY_START_PAGE_KEY,NEXT_PUBLIC_CMS_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsubhadeepbiswas26%2FOptimizely-SaaS-CMS-Next.js-15&env=OPTIMIZELY_API_URL,OPTIMIZELY_SINGLE_KEY,OPTIMIZELY_PREVIEW_SECRET,OPTIMIZELY_REVALIDATE_SECRET,OPTIMIZELY_START_PAGE_URL,OPTIMIZELY_START_PAGE_KEY,NEXT_PUBLIC_CMS_URL)
 
 > Note: This template requires an Optimizely SaaS CMS instance to retrieve content. Please connect with the [Optimizely](https://www.optimizely.com/products/content-management/) team to receive CMS access.
 
